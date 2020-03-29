@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    Amod:
       name:           Amod Hulge
       site:           https://www.qrera.in
       avatar:         /assets/images/avatar1.jpg
@@ -27,13 +27,29 @@ authors:
       email:          amod.hulge@qrera.in
       twitter:        https://twitter.com/wowthemesnet
 
-    jane:
+    Aditya:
       name:           Aditya Wagh
       site:           http://www.adityawagh.com
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Post-doctoral Researcher at Indian Institute of Science, Bangalore. Loves making machines and doing science!"
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Post-doctoral Researcher at IISc, Bangalore. Loves making machines and doing science!"
       email:          waghaditya@gmail.com
       twitter:        https://twitter.com/Aditya_A_Wagh
+      
+    Santanu:
+      name:           Santanu
+      site:           
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Assist. Prof."
+      email:          
+      twitter:        
+
+    Abhishek:
+      name:           Abhishek
+      site:           
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Researcher Student"
+      email:          
+      twitter:        
  
 # Defaults
 defaults:
