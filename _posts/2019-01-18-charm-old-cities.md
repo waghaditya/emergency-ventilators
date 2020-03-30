@@ -3,7 +3,7 @@ layout: post
 title:  "Croudsourcing Emergency-Ventilator Designs for the Makers!"
 author: Aditya Wagh
 categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+image: assets/images/wordcloud.jpg
 tags: [sticky]
 ---
 
