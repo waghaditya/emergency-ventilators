@@ -47,9 +47,41 @@ authors:
       name:           Abhishek
       site:           
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Researcher Student"
+      bio:            "Research Student"
       email:          
-      twitter:        
+      twitter:     
+      
+    Shwetha:
+      name:           Shwetha
+      site:           
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "INSPIRE Faculty, IISc, Bangalore"
+      email:          
+      twitter:     
+      
+    Pradeep:
+      name:           Pradeep
+      site:           
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Assist. Prof."
+      email:          
+      twitter: 
+      
+    Priyanka:
+      name:           Priyanka
+      site:           
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Research Student, IISc, Bangalore"
+      email:          
+      twitter:  
+      
+    Krishna:
+      name:           Krishna
+      site:           
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Research Student, IISc, Bangalore"
+      email:          
+      twitter:  
  
 # Defaults
 defaults:
