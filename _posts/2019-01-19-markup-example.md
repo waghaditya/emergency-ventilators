@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Markdown Example"
-author: jane
+title:  "Test post"
+author: Priyanka
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
 tags: featured
