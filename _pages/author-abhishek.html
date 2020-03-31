@@ -1,23 +1,23 @@
 ---
-title: "Abhiskek"
+title: "Abhishek"
 layout: default
-permalink: "/author-abhiskek.html"
+permalink: "/author-abhishek.html"
 ---
 <div class="container">
 <div class="row justify-content-center">
     <div class="col-md-8">        
         <div class="row align-items-center mb-5">
             <div class="col-md-9">
-                <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.Abhiskek.twitter }}">Follow</a></span></h2>
-                <p><a href="{{ site.authors.Abhiskek.site }}">{{ site.authors.Abhiskek.site }}</a></p>
-                <p class="excerpt">{{ site.authors.Abhiskek.bio }}</p>
+                <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.Abhishek.twitter }}">Follow</a></span></h2>
+                <p><a href="{{ site.authors.Abhishek.site }}">{{ site.authors.Abhishek.site }}</a></p>
+                <p class="excerpt">{{ site.authors.Abhishek.bio }}</p>
             </div>
             <div class="col-md-3 text-right">
-                <img alt="{{ site.authors.Abhiskek.name }}" src="{{site.baseurl}}/{{ site.authors.Abhiskek.avatar }}" class="rounded-circle" height="100" width="100">
+                <img alt="{{ site.authors.Abhishek.name }}" src="{{site.baseurl}}/{{ site.authors.Abhishek.avatar }}" class="rounded-circle" height="100" width="100">
             </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
-            {% assign posts = site.posts | where:"author","Abhiskek" %}
+            {% assign posts = site.posts | where:"author","Abhishek" %}
             {% for post in posts %}
             {% include main-loop-card.html %}
             {% endfor %}
