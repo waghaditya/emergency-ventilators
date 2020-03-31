@@ -82,6 +82,14 @@ authors:
       bio:            "Research Student, IISc, Bangalore"
       email:          
       twitter:  
+      
+    Vineeth:
+      name:           Vineeth MP
+      site:           
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Post-doctoral Researcher"
+      email:          
+      twitter:
  
 # Defaults
 defaults:
