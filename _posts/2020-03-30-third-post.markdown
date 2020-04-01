@@ -7,7 +7,9 @@ image: assets/images/16.jpg
 tags: 
 ---
 
-## Priyanka's Opinion..!
+# Priyanka's Opinion..!
+
+![image1](https://github.com/waghaditya/emergency-ventilators/blob/gh-pages/assets/images/11.jpg)
 
 * To create a place where everybody can contribute, collaborate
 * Create wider visibility
