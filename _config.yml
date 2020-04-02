@@ -90,6 +90,14 @@ authors:
       bio:            "Post-doctoral Researcher"
       email:          
       twitter:
+      
+     Ruchika:
+      name:           Ruchika
+      site:           
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Researcher"
+      email:          
+      twitter:
  
 # Defaults
 defaults:
