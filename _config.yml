@@ -7,7 +7,7 @@ baseurl: '/emergency-ventilators'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-google-analytics: UA-147418121-1 # Add your identifier. For example UA-99631805-1
+google-analytics: UA-162603730-1 # Add your identifier. For example UA-99631805-1
 
 
 include: ["_pages"]
